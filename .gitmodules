@@ -1,0 +1,3 @@
+[submodule "mysterium-vpn-android"]
+	path = mysterium-vpn-android
+	url = https://otkd@github.com/mysteriumnetwork/mysterium-vpn-mobile
